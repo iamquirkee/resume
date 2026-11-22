@@ -39,7 +39,7 @@
       "role": "Lead UX Engineer",
       "start": "Sep 2024",
       "end": "Present",
-      "location": "London, UK",
+      "location": "London, UK (remote)",
       "bullets": [
         "Built a multi-tenant, white-labelled B2B insurance platform with Next.js and GraphQL that lets each insurer apply its own theme and deploy its own branded experience.",
         "Set up UI component standards and workflows so that new, complex commercial insurance products can be integrated quickly each year.",
@@ -53,7 +53,6 @@
       "role": "Senior Technologist",
       "start": "May 2021",
       "end": "Sep 2024",
-      "location": "Singapore",
       "bullets": [
         "Built frontend prototypes and 3D web interfaces to explore future concepts for Dell's digital ecosystem.",
         "Engineered immersive, highly optimised 3D interfaces with Three.js, WebGL, Canvas and WebXR.",
@@ -66,7 +65,6 @@
       "role": "Senior Engineer",
       "start": "Nov 2019",
       "end": "Feb 2021",
-      "location": "Singapore",
       "bullets": [
         "Built the frontend foundation for SK-II's global design system and digital rebrand ahead of the Tokyo Olympic Games.",
         "Led frontend execution for Bristol Myers Squibb, engineering microinteractions, dynamic visuals and fluid animations.",
@@ -78,7 +76,6 @@
       "role": "Creative Technologist (Google)",
       "start": "Aug 2018",
       "end": "Oct 2019",
-      "location": "Singapore",
       "bullets": [
         "Engineered web applications and PWAs for Google's enterprise B2B sites.",
         "Built the \"Make Your Pringles\" campaign PWA for Korea, solving API compatibility and camera-access issues in restricted in-app browsers (KakaoTalk, LINE, Samsung Internet).",
@@ -91,7 +88,6 @@
       "role": "Creative Technologist",
       "start": "Aug 2017",
       "end": "Aug 2018",
-      "location": "Singapore",
       "bullets": [
         "Managed frontend delivery for Samsung APAC flagship launches, building the launch sites and campaign assets for the Galaxy Note8, S9 and Note9.",
         "Introduced modern frontend frameworks to the creative division, narrowing the gap between design and production.",
@@ -104,7 +100,6 @@
       "role": "Interaction Developer",
       "start": "Jan 2016",
       "end": "Jul 2017",
-      "location": "Singapore",
       "bullets": [
         "Developed an interaction-heavy web application for modelling and mapping biological gene sequences.",
         "Co-developed a drag-and-drop email builder that serialises its output for marketing automation platforms.",

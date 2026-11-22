@@ -78,7 +78,7 @@ const sidebar = (d) => `
 
 const role = (r) => `
   <article class="role">
-    <p class="role-meta">${dates(r)} · ${esc(r.location)}</p>
+    <p class="role-meta">${dates(r)}${r.location ? ` · ${esc(r.location)}` : ''}</p>
     <h3 class="company">${esc(r.company)}</h3>
     <p class="role-title">${esc(r.role)}</p>
     ${list(r.bullets, (b) => `<li>${esc(b)}</li>`, 'bullets')}
