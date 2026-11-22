@@ -1,0 +1,25 @@
+/*
+ * Chrome never paints backgrounds into @page margins, so the page margin is 0 and
+ * the paper inset comes from .page padding, cloned onto every page fragment.
+ */
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media print {
+  html,
+  body {
+    background: var(--bg);
+  }
+
+  .page {
+    width: auto;
+    min-height: 0;
+    margin: 0;
+    padding: var(--margin-y) var(--margin-x);
+    box-shadow: none;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+}

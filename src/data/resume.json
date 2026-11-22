@@ -1,0 +1,146 @@
+{
+  "name": "Kenneth Ho",
+  "headline": "UX Engineer",
+  "location": "Singapore",
+  "summary": [
+    "UX Engineer with over a decade of frontend experience, from agency campaigns and interactive installations to enterprise B2B platforms.",
+    "I specialise in polished UI animation, high-fidelity microinteractions and 3D/WebGL on the web, and I lead frontend delivery across design, API and security teams."
+  ],
+  "contact": [
+    { "label": "Web", "value": "quirkee.sg", "href": "https://quirkee.sg" },
+    { "label": "CodePen", "value": "codepen.io/iamquirkee", "href": "https://codepen.io/iamquirkee" },
+    { "label": "LinkedIn", "value": "linkedin.com/in/iamquirkee", "href": "https://www.linkedin.com/in/iamquirkee" },
+    { "label": "Email", "value": "iam@quirkee.sg", "href": "mailto:iam@quirkee.sg" },
+    { "label": "Phone", "value": "+65 9647 2475", "href": "tel:+6596472475" }
+  ],
+  "skills": [
+    { "group": "Core", "tone": "blue", "items": ["TypeScript", "JavaScript", "React", "Next.js", "Vue", "GraphQL", "HTML", "SCSS / CSS"] },
+    { "group": "Motion & 3D", "tone": "teal", "items": ["GSAP", "Three.js", "WebGL / GLSL", "Canvas / SVG", "WebXR", "Unity"] },
+    { "group": "Platform", "tone": "yellow", "items": ["Node", "Design systems", "RJSF", "JSONata", "PWAs", "AEM"] }
+  ],
+  "languages": [
+    { "name": "English", "level": "Native" },
+    { "name": "Chinese", "level": "Limited working" }
+  ],
+  "awards": [
+    {
+      "title": "Gold, General Website: Automotive",
+      "project": "Lexus GS F",
+      "issuer": "W3 Awards",
+      "date": "Jan 2016"
+    }
+  ],
+  "education": [
+    { "school": "Nanyang Polytechnic", "qualification": "Diploma in Interaction Design", "dates": "2009 – 2012" }
+  ],
+  "experience": [
+    {
+      "company": "Aurora",
+      "role": "Lead UX Engineer",
+      "start": "Sep 2024",
+      "end": "Present",
+      "location": "London, UK",
+      "bullets": [
+        "Built a multi-tenant, white-labelled B2B insurance platform with Next.js and GraphQL that lets each insurer apply its own theme and deploy its own branded experience.",
+        "Set up UI component standards and workflows so that new, complex commercial insurance products can be integrated quickly each year.",
+        "Engineered a dynamic form engine on React JSON Schema Form (RJSF) that handles variable policy definitions across insurers and brokers.",
+        "Integrated JSONata to map differing insurance data schemas, transforming API and GraphQL payloads across policy versions.",
+        "Lead frontend delivery across Design, API and Security teams, covering performance, design accuracy and enterprise compliance."
+      ]
+    },
+    {
+      "company": "Dell Technologies",
+      "role": "Senior Technologist",
+      "start": "May 2021",
+      "end": "Sep 2024",
+      "location": "Singapore",
+      "bullets": [
+        "Built frontend prototypes and 3D web interfaces to explore future concepts for Dell's digital ecosystem.",
+        "Engineered immersive, highly optimised 3D interfaces with Three.js, WebGL, Canvas and WebXR.",
+        "Lead frontend engineer for an interactive installation that tracked users by connecting UI pipelines to LIDAR, Kinect, ZED 2, OpenCV and machine-learning models.",
+        "Developed 2D interfaces and custom GLSL shaders in Unity for Dell's concept showcase at CES 2022."
+      ]
+    },
+    {
+      "company": "Huge",
+      "role": "Senior Engineer",
+      "start": "Nov 2019",
+      "end": "Feb 2021",
+      "location": "Singapore",
+      "bullets": [
+        "Built the frontend foundation for SK-II's global design system and digital rebrand ahead of the Tokyo Olympic Games.",
+        "Led frontend execution for Bristol Myers Squibb, engineering microinteractions, dynamic visuals and fluid animations.",
+        "Directed development sprints with an external vendor team (Mindtree), using high-fidelity React and Vue prototypes to preserve design intent."
+      ]
+    },
+    {
+      "company": "Toaster",
+      "role": "Creative Technologist (Google)",
+      "start": "Aug 2018",
+      "end": "Oct 2019",
+      "location": "Singapore",
+      "bullets": [
+        "Engineered web applications and PWAs for Google's enterprise B2B sites.",
+        "Built the \"Make Your Pringles\" campaign PWA for Korea, solving API compatibility and camera-access issues in restricted in-app browsers (KakaoTalk, LINE, Samsung Internet).",
+        "Developed custom WebGL shaders and optimised Canvas and SVG animations for international brand campaigns.",
+        "Partnered with clients including Unilever to rapidly prototype emerging web features, AR filters and web-based brand assets."
+      ]
+    },
+    {
+      "company": "Cheil Worldwide",
+      "role": "Creative Technologist",
+      "start": "Aug 2017",
+      "end": "Aug 2018",
+      "location": "Singapore",
+      "bullets": [
+        "Managed frontend delivery for Samsung APAC flagship launches, building the launch sites and campaign assets for the Galaxy Note8, S9 and Note9.",
+        "Introduced modern frontend frameworks to the creative division, narrowing the gap between design and production.",
+        "Automated build pipelines with Gulp, cutting delivery times for rich media and EDMs.",
+        "Developed localised, component-driven experiences in Adobe Experience Manager for 100Plus and MSD Keytruda."
+      ]
+    },
+    {
+      "company": "Voidworks",
+      "role": "Interaction Developer",
+      "start": "Jan 2016",
+      "end": "Jul 2017",
+      "location": "Singapore",
+      "bullets": [
+        "Developed an interaction-heavy web application for modelling and mapping biological gene sequences.",
+        "Co-developed a drag-and-drop email builder that serialises its output for marketing automation platforms.",
+        "Engineered a generative physical-digital installation that used live weather and social media data to render visuals and ambient audio.",
+        "Took part in agile scrums, pair programming and UX/UI design sprints to find usability issues and improve layouts."
+      ]
+    }
+  ],
+  "earlier": [
+    {
+      "company": "The Secret Little Agency",
+      "role": "Freelance Interaction Developer",
+      "start": "Feb 2016",
+      "end": "Oct 2016",
+      "summary": "Telenor Group's global WordPress sites, Zespri campaign SPAs (\"Sweeter Than You Think\") and localised Tiger Beer brand sites."
+    },
+    {
+      "company": "Multimedia People",
+      "role": "Freelance Interaction Developer",
+      "start": "Jun 2015",
+      "end": "Dec 2015",
+      "summary": "Multi-touch Adobe AIR installations for the Monetary Authority of Singapore Gallery that explain CPI, inflation and fiscal policy."
+    },
+    {
+      "company": "Section",
+      "role": "Interaction Developer",
+      "start": "Jan 2013",
+      "end": "Dec 2015",
+      "summary": "Animated web apps and Unity, Kinect and Leap Motion installations for LG, Lipton, Bata and Lee Hwa."
+    },
+    {
+      "company": "Luxus",
+      "role": "Web Developer Intern → Junior Web Developer",
+      "start": "Jun 2012",
+      "end": "Dec 2012",
+      "summary": "Web applications for Citibank and BMW that passed corporate security and penetration testing."
+    }
+  ]
+}
